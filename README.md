@@ -16,3 +16,15 @@ Jupyter
 Logic
 NLP
 Python
+
+## Task One: Data extraction and initial analysis
+
+Extract financial data from provided 10-K documents.
+Conduct a basic analysis to identify significant financial trends and indicators.
+Format and clean the data for further processing in an AI model.
+
+## Task Two: Developing an AI-powered financial chatbot
+
+Develop an AI chatbot that can analyze financial data and provide insights.
+Integrate the previously extracted and analyzed data into the chatbot system.
+Test the chatbot to ensure it can effectively communicate financial performance insights and comparisons.
